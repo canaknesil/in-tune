@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">In Tune</string>
+
+    <string-array name="spinner_notes">
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+    </string-array>
+</resources>
